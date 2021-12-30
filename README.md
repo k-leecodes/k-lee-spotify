@@ -1,5 +1,3 @@
-**Now Playing** on Spotify
+**Kyra Is Currently Listening To:**
 
-<a href="https://now-playing-joshlmao.vercel.app/now-playing?open">
-    <img src="https://now-playing-joshlmao.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
-</a>
+![](https://spotify-recently-played-readme.vercel.app/api?user=yhay0n23jd2xxxyg7zhg8v34q)
